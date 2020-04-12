@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/08/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日语学习辅助网站</title>
+    <url>/2020/04/10/%E6%97%A5%E6%9C%AC%E8%AA%9E/</url>
+    <content><![CDATA[<h2 id="推荐几个日语学习网站"><a href="#推荐几个日语学习网站" class="headerlink" title="推荐几个日语学习网站"></a>推荐几个日语学习网站</h2><p>日语教师博客:<a href="https://nihongonosensei.net/" target="_blank" rel="noopener">https://nihongonosensei.net/</a><a id="more"></a></p>
+<p>MARUGOTO+ (MARUGOTO Plus) is a website where users can learn about Japanese language and culture based on the contents of the “MARUGOTO: Japanese Language and Culture”, the official coursebook of the Japan Foundation, which complies to the JF Standard for Japanese-Language Education.<a href="https://marugotoweb.jp/en/index.php" target="_blank" rel="noopener">https://marugotoweb.jp/en/index.php</a></p>
+<p>查询日语单词网站:<a href="https://hinoki-project.org/natsume/" target="_blank" rel="noopener">https://hinoki-project.org/natsume/</a></p>
+<p>单词查询网站:<a href="http://nlt.tsukuba.lagoinst.info/search/" target="_blank" rel="noopener">http://nlt.tsukuba.lagoinst.info/search/</a></p>
+<p>查询日语单词发音网站:<a href="http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/textbook:6/section:1/order:name" target="_blank" rel="noopener">http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/textbook:6/section:1/order:name</a></p>
+<p>日语辞典:<a href="https://www.weblio.jp/" target="_blank" rel="noopener">https://www.weblio.jp/</a><br><img src="https://img-blog.csdnimg.cn/20200410204206999.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NzA1NA==,size_16,color_FFFFFF,t_70#pic_center" alt="杭州"></p>
+]]></content>
+      <categories>
+        <category>日本語</category>
+      </categories>
+      <tags>
+        <tag>日本語</tag>
+      </tags>
+  </entry>
+</search>
